@@ -2,9 +2,9 @@
 
 ### Screenshot of Arduino IDE showing selected board & port
 ![image](https://github.com/user-attachments/assets/a8a597fd-d77c-4754-b511-bb00bac1f7bd)
-
-
-
+##
+##
+##
 ### Photo or video of the ESP32 blinking LED (your own)
 #### Pushbutton not pressed -> LED off
 ![image](https://github.com/user-attachments/assets/14570a03-b1e2-4cdb-b067-abc947009cd6)
